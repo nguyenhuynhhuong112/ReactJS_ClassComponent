@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inpt{
+    border-radius: 5px;
+    height: 20px;
+    margin-right: 10px;    
+}
+.add-todo{
+    background-color: white;
+    height: 25px;
+    border-radius: 5px;
+}
+.add-todo:hover{
+    border-color: #1E90FF;
+}
